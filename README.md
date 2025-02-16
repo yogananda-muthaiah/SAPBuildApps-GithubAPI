@@ -11,6 +11,8 @@
 * Basic Knowledge: Familiarity with SAP Build Apps and REST APIs.
 * SAP Build Apps Mobile App : Install app from your Mobile in Android Play store or Apple App store
 
+### Detailed Steps in SAP Community Blog
+* [Follow](https://community.sap.com/t5/technology-blogs-by-sap/developing-an-app-with-sap-build-apps-using-github-api-less-than-5mins/ba-p/14017891 ) 
 
 ### Download MTAR SAP Build Apps Project - Github
 * [Download](https://github.com/yogananda-muthaiah/SAPBuildApps-GithubAPI/blob/main/deploy/GitHub.mtar)
